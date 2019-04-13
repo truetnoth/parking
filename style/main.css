@@ -14,7 +14,7 @@ header {
   }
 
 .header--burger {
-  background-image: url(img/burger.svg);
+  background-image: url(../img/burger.svg);
   width: 30px;
   height: 25px;
   margin-right: 30px;
@@ -67,10 +67,10 @@ footer {
     height: 40px;
   }
   .footer--settings {
-    background-image: url(img/settings.svg);
+    background-image: url(../img/settings.svg);
   }
   .footer--save {
-    background-image: url(img/settings.svg);
+    background-image: url(../img/settings.svg);
   }
   
 
@@ -82,7 +82,7 @@ footer {
   position: absolute;
   top: -50%;
   left: 5%;
-  background-image: url(img/warning.svg);
+  background-image: url(../img/warning.svg);
   background-repeat: no-repeat;
   background-position: 8% 50%;
   border: 1px solid #FF7979;
